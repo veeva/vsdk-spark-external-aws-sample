@@ -1,0 +1,17 @@
+{
+  "authenticationType": "BASIC",
+  "idpOauthAccessToken": "",
+  "idpOauthScope": "openid",
+  "idpUsername": "",
+  "idpPassword": "",
+  "vaultUsername": "vault.user@sandboxvault.com",
+  "vaultPassword": "VeevaVault!",
+  "vaultDNS": "sandbox.veevavault.com",
+  "vaultSessionId": "",
+  "vaultClientId": "Vault-Java-SDK-Spark-External-AWS-Example",
+  "vaultOauthClientId": "",
+  "vaultOauthProfileId": "",
+  "logApiErrors": true,
+  "httpTimeout": null,
+  "validateSession": true
+}
