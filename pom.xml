@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
 
       <properties>
-          <vault.sdk.version>[23.3.0-release0, 23.3.0-release1000000]</vault.sdk.version>
+          <vault.sdk.version>[24.2.0-release0, 24.2.0-release1000000]</vault.sdk.version>
       </properties>
 
     <repositories>
@@ -46,6 +46,7 @@
             <groupId>com.veeva.vault.sdk.debugger</groupId>
             <artifactId>vault-sdk-debugger</artifactId>
             <version>${vault.sdk.version}</version>
+            <scope>runtime</scope>
         </dependency>
 
     </dependencies>
